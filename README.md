@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcelo Barbosa Martins 👋
 
-Analista em Segurança Cibernética / SOC, com formação em Segurança da Informação e certificações como **ITIL® 4, ISO/IEC 27001:2022, Zabbix Certified User (ZCU)**. Atuo há mais de 15 anos com infraestrutura, redes e segurança, com foco atual no fortalecimento da postura defensiva (**Blue Team**) e na Gestão de Vulnerabilidades.
+Analista em Segurança Cibernética / SOC, com formação em Segurança da Informação e certificações como **ITIL® 4, ISO/IEC 27001:2022, Zabbix Certified User (ZCU), Security PRO, Fortinet Certified Associate in Cybersecurity, CCNA v7, HDI-SCA**. Atuo há mais de 15 anos com infraestrutura, redes e segurança, com foco atual no fortalecimento da postura defensiva (**Blue Team**) e na Gestão de Vulnerabilidades.
 
 ### 🛡️ Atuação Atual
 Atualmente, integro o time da **RNP como Residente em Cibersegurança no PoP-DF**, participando de projetos de:
